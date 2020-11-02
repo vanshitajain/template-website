@@ -63,8 +63,6 @@ h2{
   padding:20px;
  }
 #navbar ul li a{
-  font-family: 'Kalam', cursive;
-  font-family: 'Lobster Two', cursive;
   font-size: 1.2em;
   color: #0080FF;
 }
@@ -311,15 +309,12 @@ p{
   height: 70px;
   width: 80px;
 }
-
-}
-
-
 .read-more-btn{
   padding: 2px 8px 4px;
   border-radius: 10px;
   line-height: 10px;
   font-size: 10px;
+}
 }
 @media screen and  (max-width: 420px){
   #navbar{
