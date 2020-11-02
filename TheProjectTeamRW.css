@@ -173,6 +173,10 @@ li{
 }
 #foot{
 	background-image:url(https://i.pinimg.com/originals/e3/f4/2b/e3f42be64c2c3a4717517522d3244b96.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
 	height:2.5rem;
 }
 #foot ul{
