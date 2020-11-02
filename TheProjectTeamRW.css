@@ -327,6 +327,12 @@ p{
  h4{
  	font-size: 0.8rem;
  }
+	#foot ul{
+		padding-top:20px;
+	}
+	#foot ul li{
+	font-size: 15px;
+}
  #article .single-blog{
 	width:88%;
 }
