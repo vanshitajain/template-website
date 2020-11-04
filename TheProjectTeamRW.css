@@ -193,15 +193,16 @@ li{
 	height:2.5rem;
 }
 #foot ul{
+	width: 100%;
 	display: flex;
-	justify-content: space-around;
 	margin: 0px;
-	padding-top: 17px;
-	padding-bottom:0px;
+	padding-inline-start: 0px;
+	margin-inline-start: 0px;
 }
 #foot ul li{
 	font-weight: 200;
 	font-size: 20px;
+	padding:0 2rem 0 2rem;
 }
 #foot ul li a{
 	color: #0080FF;
@@ -392,12 +393,11 @@ p{
   #article .single-blog{
 	width:86%;
 }
-	
 .read-more-btn{
-  padding: 2px 8px 4px;
+  padding: 2px 7px 3px;
   border-radius: 10px;
   line-height: 10px;
-  font-size: 8px;
+  font-size: 7px;
 }
  
   #navbar ul li a{
