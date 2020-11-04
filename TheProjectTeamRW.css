@@ -107,6 +107,11 @@ a{
   color: #fff;
   border:2px solid red;
 }
+.read-more-btn:hover{
+  background-image:linear-gradient(to right,red,pink);
+  color: #fff;
+  text-decoration: none;
+}
 .row{
 	display: grid;
 	grid-template-columns:20% auto;
